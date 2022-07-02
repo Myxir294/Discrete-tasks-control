@@ -1,0 +1,33 @@
+For task No. data.10:
+6 9 2 5 10 7 4 8 3 1 
+Minimal penalty: 766
+For task No. data.11:
+6 9 2 11 5 7 10 4 8 3 1 
+Minimal penalty: 799
+For task No. data.12:
+6 9 2 11 5 12 10 7 4 8 3 1 
+Minimal penalty: 742
+For task No. data.13:
+6 9 5 2 11 12 13 10 7 4 8 3 1 
+Minimal penalty: 688
+For task No. data.14:
+6 9 5 2 11 14 12 13 10 7 4 8 3 1 
+Minimal penalty: 497
+For task No. data.15:
+6 9 5 2 11 15 14 12 13 7 10 4 8 3 1 
+Minimal penalty: 440
+For task No. data.16:
+6 9 5 16 2 11 15 14 12 13 10 7 8 4 3 1 
+Minimal penalty: 423
+For task No. data.17:
+6 9 5 17 16 2 11 15 14 12 13 10 7 8 4 3 1 
+Minimal penalty: 417
+For task No. data.18:
+6 9 5 18 17 16 2 11 15 14 12 13 10 7 8 4 3 1 
+Minimal penalty: 405
+For task No. data.19:
+6 9 5 19 18 17 16 2 11 15 14 12 13 10 7 8 4 3 1 
+Minimal penalty: 393
+For task No. data.20:
+6 20 9 5 19 2 11 18 17 16 15 12 14 13 7 10 8 4 3 1 
+Minimal penalty: 897
